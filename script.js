@@ -1,0 +1,1 @@
+document.getElementById('ja').style.backgroundColor = "red";
